@@ -1,7 +1,5 @@
 ### hi everyone :star_struck: !
-- I'm interested in learning more about software development and programming languages
-- I'm currently working on my schoolwork that is due soon :open_book:
-- My favorite hobby is playing soccer 
+- happy to be here
 
 
 <!--
